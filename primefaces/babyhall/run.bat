@@ -1,0 +1,1 @@
+mvn clean install && del "c:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\babyhall.war" && copy c:\Users\Alex\IdeaProjects\babyhall\target\babyhall.war "c:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps"
